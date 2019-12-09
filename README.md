@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/mbbu/hpc_site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to icipe HPC CLUSTER NODE
+hpc01 is a cluster running centos 6.9 at icipe. The cluster contains Bioinformatic modules and analytics tools. The cluster is aimed at increasing computational power by offering computing resources for bioinformatic needs and use at icipe.
 
 ### Markdown
 
