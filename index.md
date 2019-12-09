@@ -45,5 +45,5 @@ The HPC makes use of a module system for managing bioinformatics software. You c
 ```
 
 For more details see [Account creation](https://redcap.icipe.org/surveys/?s=JAP78NN73C).
-For more details see [HPC_POLICY](https://redcap.icipe.org/surveys/?s=JAP78NN73C).
+For more details see [HPC_POLICY](https://redcap.icipe.org/surveys/?s=ENEFCLFTME).
 
