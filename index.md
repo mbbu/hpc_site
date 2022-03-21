@@ -1,4 +1,4 @@
-ILRI Research Computing
+ICIPE Research Computing
 ##  Icipe Reasearch Computing
 This is the Icipe Research Computing Resource. Here you'll find information about the research computing infrastructure, including information about [Software](https://github.com/mbbu/Icipe-hpc-environment), help using SLURM, etc.
 
@@ -12,9 +12,9 @@ The cluster is arranged in a master/slave configuration; users log into HPC (the
 
 | Machine       | Specification   |Uses   |
 | :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+| HPC           | 8GB RAM,5       | NO workloads |
+| HPC01         | 64GB RAM,       |   Heavy workloads |
+| HPC02         | 64GB RAM,       |    Heavy workloads |
 
 # Account and Usage
 HPC users are not permitted to share their accounts with others. The user accounts are active for the duration of the research, with an additional period of one year depending on the user needs.
