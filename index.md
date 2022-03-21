@@ -16,6 +16,9 @@ The cluster is arranged in a master/slave configuration; users log into HPC (the
 | HPC01         | 64GB RAM,       |   Heavy workloads |
 | HPC02         | 64GB RAM,       |    Heavy workloads |
 
+```
+
+
 # Account and Usage
 HPC users are not permitted to share their accounts with others. The user accounts are active for the duration of the research, with an additional period of one year depending on the user needs.
 
@@ -25,7 +28,7 @@ Connecting to the HPC is not done through ssh connection In order to launch comp
         Most of these operating systems are unix based which come with ssh protocol already installed.Just open your terminal and `ssh user@hpc01.icipe.org`then enter your password. If that does not work install ssh client based on your operating system. Connecting to the server requires access through icipe internal network or access to icipe Vpn.
 
    # If you are running Windows
-    For windows users you will have to install [open-ssh](https://www.openssh.com/).Another option is to install [mob-xterm](https://mobaxterm.mobatek.net/download-home-edition.html)
+    For windows users you will have to install [openssh](https://www.openssh.com).Another option is to install [mob-xterm](https://mobaxterm.mobatek.net/download-home-edition.html)
              - host: hpc.icipe.org 
              - port: leave the default SSH port, i.e. port 22
              - username: your username, as communicated by the person who created your HPC account.
@@ -50,7 +53,7 @@ Provide version information, a link to installation instructions, a summary of i
 
 
 
-```
+
 
 For more details see [Account creation](https://redcap.icipe.org/surveys/?s=JAP78NN73C).
 For more details see [HPC_POLICY](https://redcap.icipe.org/surveys/?s=ENEFCLFTME).
