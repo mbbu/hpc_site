@@ -18,7 +18,7 @@ Swap: 524287996k total,  1679480k used, 522608516k free, 154987468k cached
 ## **Account and Usage**
 HPC users are not permitted to share their accounts with others. The user accounts are active for the duration of the research, with an additional period of one year depending on the user needs. 
 A user with an icipe HPC account can access the cluster with the command:
-ssh –X <username>@hpc01.icipe.org 
+ssh –X <username>@hpc.icipe.org 
 where “-X” is the flag for exporting the graphics with ssh. Users are strictly advised against sharing their access details with other users. The scheduler reserves available compute nodes and other resources on a first-come-first-served basis among Users with equal priority, but this does not apply to system administration and testing of the machine. NB: This is operational from November 2019. 
   
 ### **Data Storage and Backup**
